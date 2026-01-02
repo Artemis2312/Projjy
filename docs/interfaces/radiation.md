@@ -77,6 +77,7 @@ so-called "fitting" temperature and pressure for the structure module to target.
 There is a derivation of this in the notes. The pressure at the surface of a star, where
 the surface is defined by some optical depth, when making a gray atmosphere approximation
 is then the pressure is 
+
 $$
 P_{R} = \frac{g_{0}\tau_{s}}{\bar{\kappa}}
 $$
